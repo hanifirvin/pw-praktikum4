@@ -1,0 +1,23 @@
+body {
+    background-image: url(img/bg.jpg);
+  }
+  
+  .jumbotron,
+  .container {
+    color: black;
+    text-align: center;
+    width: 800px;
+    margin: 20px auto;
+    padding: 20px 10px;
+    background-color:rgba(245, 245, 245, 0.7);
+  }
+  .jumbotron {
+    color: black;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px rgb(173, 171, 171);
+  }
+  
+  table {
+    margin: auto;
+  }
+  
